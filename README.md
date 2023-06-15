@@ -1,5 +1,5 @@
 # Landing Page Responsiva
-![Capa](img/capa.jpg)
+![Capa](img/imagem-capa.jpg)
 ## Sobre o projecto
 Landing Page Responsiva para Hamburgueria em HTML, CSS e JS.
 
